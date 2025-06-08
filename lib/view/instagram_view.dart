@@ -32,6 +32,14 @@ class InstagramView extends StatelessWidget {
         'statusImage': 'assets/images/10.jpg',
         'username': 'Sara',
       },
+      {
+        'statusImage': 'assets/images/11.jpg',
+        'username': 'Ismail',
+      },
+      {
+        'statusImage': 'assets/images/12.jpg',
+        'username': 'Islam',
+      },
     ];
 
     // قائمة بالبيانات الوهمية للمنشورات (البوستات).
